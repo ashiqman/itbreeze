@@ -1,0 +1,32 @@
+/*!
+Theme Name: ITbreeze
+Theme URI: http://underscores.me/
+Author: Md. Ashiqur Rahman
+Author URI: http://techthreeo.com
+Description: company
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: itbreeze
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+ITbreeze is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+*/
+
+.megamenu_container>ul{
+    padding:11px 0;
+}
+.megamenu>li a{
+    background-image: url(../img/arrow-down-white.png);
+    background-repeat: no-repeat;
+    background-position: right 20px;
+    padding: 14px 30px 15px 0;
+    color: #fff;
+    text-decoration: none;
+}
+
